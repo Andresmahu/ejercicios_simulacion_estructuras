@@ -1,3 +1,5 @@
+package Ejercicio1;
+
 public class avion {
     public int distancia;
     public int tiempo;

@@ -1,3 +1,7 @@
+package Ejercicio1;
+
+import Ejercicio1.avion;
+
 import java.util.*;
 
 public class Main {
